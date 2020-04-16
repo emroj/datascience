@@ -1,0 +1,11 @@
+{
+  "name": "datascience",
+  "version": "0.0.1",
+  "description": "Datascience is a javascript library containing several functions used in datascience",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emroj Hossain",
+  "license": "Apache-2.0"
+}
